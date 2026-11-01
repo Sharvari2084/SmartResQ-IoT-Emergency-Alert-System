@@ -20,7 +20,6 @@ The system uses an ESP32-based setup to identify emergency events and integrates
 
 ## Project Documentation
 Refer to the following documents for detailed information about the project:
-
 - [Project Report](Project_Documentation/Final_Project_Report.pdf)
-- [Project Presentation](Project_Documentation/Project_presentation.pdf)
+  
 
